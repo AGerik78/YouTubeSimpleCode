@@ -1,7 +1,13 @@
 ﻿namespace Lessons
 {
-    static void Main(string[] args)
+    class program
     {
-        string 
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!!");
+
+            Console.WriteLine("Привет, Мир!!");
+        }
     }
+
 }
